@@ -8,9 +8,9 @@ import Effect from "./components/Effect";
 const App = () => {
   return (
     <>
-      <Effect />
+      {/* <Effect /> */}
 
-      {/* <Todos /> */}
+      <Todos />
 
       {/* <Main /> */}
 
